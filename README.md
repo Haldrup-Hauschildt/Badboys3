@@ -1,1 +1,1 @@
-Repository for a School project, promoting Bad Boys 3s
+Repository for a School project, promoting Bad Boys 3
