@@ -1,3 +1,7 @@
+@import "front_page.css";
+@import "trailerpage.css";
+@import "countdown.css";
+
 body {
     font-family: 'Bebas Neue';
     width: 100%;
