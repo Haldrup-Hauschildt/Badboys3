@@ -20,7 +20,7 @@
 }
 iframe{
     width: 80%;
-    height: 60%;
+    height: 65%;
     justify-self: center;
     align-self: center;
     grid-column: 1/2;
@@ -47,7 +47,7 @@ iframe{
     margin-top:2em;
     padding: 1em;
     color: black;
-    background-color: brown;
+    background-color: burlywood;
     margin: 2em;
    
 }
