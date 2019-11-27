@@ -1,0 +1,54 @@
+.release p {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 10%;
+    text-decoration: underline;
+}
+
+.countdown {
+    margin-left: 5%;
+}
+
+.countdown p {
+    text-align: center;
+    font-size: 5rem;
+    margin-top: 5%;
+    margin-bottom: 15%;
+  }
+
+.countdown__days {
+    position: relative;
+    top: 80px;
+    left: -60px;
+}
+.countdown__hours {
+    position: relative;
+    top: 80px;
+    left: -60px;
+}
+
+.countdown__minutes {
+    position: relative;
+    top: 80px;
+    left: -60px;
+}
+
+.countdown__seconds {
+    position: relative;
+    top: 80px;
+    left: -60px;
+}
+
+.tickets {
+    text-align: center;
+  }
+
+.tickets a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    background: burlywood;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
